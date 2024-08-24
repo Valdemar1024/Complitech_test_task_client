@@ -1,4 +1,5 @@
-Simple client for testing of server application
+Simple client for testing of server application.
+Java 21
 
 To run test:
 1. Start server app
